@@ -58,8 +58,8 @@
                                <i class="fa fa-calendar" aria-hidden="true"></i>   10-12-dic
                            </p>
                            <p class="ciudad">
-                             <i class="fa fa-map-marker" aria-hidden="true"></i> Guadalajara,MX
-                         </p>
+                             <i class="fa fa-map-marker" aria-hidden="true"></i> Arequipa,PE
+                        </p>
                      </div>
 
                      <h1 class="nombre-sitio">GlWebCamp</h1>
